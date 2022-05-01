@@ -1,0 +1,573 @@
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\bin\Debug\net5.0\appsettings.json
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Project_Qeue.StaticWebAssets.xml
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Project_Qeue.exe
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Project_Qeue.deps.json
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Project_Qeue.runtimeconfig.json
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Project_Qeue.runtimeconfig.dev.json
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Project_Qeue.dll
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\bin\Debug\net5.0\ref\Project_Qeue.dll
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Project_Qeue.pdb
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Project_Qeue.Views.dll
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Project_Qeue.Views.pdb
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.csproj.AssemblyReference.cache
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.AssemblyInfoInputs.cache
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.AssemblyInfo.cs
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.csproj.CoreCompileInputs.cache
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.RazorComponent.input.cache
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\obj\Debug\net5.0\RazorDeclaration\Shared\LoginDisplay.razor.g.cs
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.RazorComponent.output.cache
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\obj\Debug\net5.0\RazorDeclaration\Project_Qeue.dll
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.TagHelpers.input.cache
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.TagHelpers.output.cache
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.RazorCoreGenerate.cache
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Shared\LoginDisplay.razor.g.cs
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LogOut.cshtml.g.cs
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.RazorAssemblyInfo.cache
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.RazorAssemblyInfo.cs
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\obj\Debug\net5.0\staticwebassets\Project_Qeue.StaticWebAssets.Manifest.cache
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\obj\Debug\net5.0\staticwebassets\Project_Qeue.StaticWebAssets.xml
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\obj\Debug\net5.0\scopedcss\bundle\Project_Qeue.styles.css
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\obj\Debug\net5.0\scopedcss\projectbundle\Project_Qeue.bundle.scp.css
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.RazorTargetAssemblyInfo.cache
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.RazorTargetAssemblyInfo.cs
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.Views.pdb
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.csproj.CopyComplete
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.dll
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\obj\Debug\net5.0\ref\Project_Qeue.dll
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.pdb
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.genruntimeconfig.cache
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\obj\Debug\net5.0\RazorDeclaration\Pages\Worke\LoginComponent.razor.g.cs
+C:\Users\Michal Zaig\source\repos\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Pages\Worke\LoginComponent.razor.g.cs
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\appsettings.Development.json
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\appsettings.json
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Project_Qeue.StaticWebAssets.xml
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Project_Qeue.exe
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Project_Qeue.deps.json
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Project_Qeue.runtimeconfig.json
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Project_Qeue.runtimeconfig.dev.json
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Project_Qeue.dll
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\ref\Project_Qeue.dll
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Project_Qeue.pdb
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Project_Qeue.Views.dll
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Project_Qeue.Views.pdb
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Humanizer.dll
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.csproj.AssemblyReference.cache
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.AssemblyInfoInputs.cache
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.AssemblyInfo.cs
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.csproj.CoreCompileInputs.cache
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.MvcApplicationPartsAssemblyInfo.cs
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.MvcApplicationPartsAssemblyInfo.cache
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.RazorComponent.input.cache
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\RazorDeclaration\Pages\Worke\LoginComponent.razor.g.cs
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\RazorDeclaration\Shared\LoginDisplay.razor.g.cs
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.RazorComponent.output.cache
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\RazorDeclaration\Project_Qeue.dll
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.TagHelpers.input.cache
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.TagHelpers.output.cache
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.RazorCoreGenerate.cache
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\App.razor.g.cs
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Pages\Worke\LoginComponent.razor.g.cs
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Shared\LoginDisplay.razor.g.cs
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LogOut.cshtml.g.cs
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Shared\_LoginPartial.cshtml.g.cs
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.RazorAssemblyInfo.cache
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.RazorAssemblyInfo.cs
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\staticwebassets\Project_Qeue.StaticWebAssets.Manifest.cache
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\staticwebassets\Project_Qeue.StaticWebAssets.xml
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\scopedcss\bundle\Project_Qeue.styles.css
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\scopedcss\projectbundle\Project_Qeue.bundle.scp.css
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.RazorTargetAssemblyInfo.cache
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.RazorTargetAssemblyInfo.cs
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.Views.pdb
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.csproj.CopyComplete
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.dll
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\ref\Project_Qeue.dll
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.pdb
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.genruntimeconfig.cache
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\RazorDeclaration\Pages\Worke\RegistrationPageComponent.razor.g.cs
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Pages\Worke\RegistrationPageComponent.razor.g.cs
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\RazorDeclaration\Pages\Worke\ForgotPasswordComponent.razor.g.cs
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Pages\Worke\ForgotPasswordComponent.razor.g.cs
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\RazorDeclaration\Pages\Worke\ServiceDataComponent.razor.g.cs
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Pages\Worke\ServiceDataComponent.razor.g.cs
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\RazorDeclaration\Pages\Worke\ContinueRegistrationTypesOfServicesComponent.razor.g.cs
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Pages\Worke\ContinueRegistrationTypesOfServicesComponent.razor.g.cs
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\RazorDeclaration\Pages\Worke\ActivityTimeComponent.razor.g.cs
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Pages\Worke\ActivityTimeComponent.razor.g.cs
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\RazorDeclaration\Pages\Worke\MakingAnAppointmentComponent.razor.g.cs
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Pages\Worke\MakingAnAppointmentComponent.razor.g.cs
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\RazorDeclaration\Pages\Worke\LoginWithoutLoggingIn.razor.g.cs
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Pages\Worke\LoginWithoutLoggingIn.razor.g.cs
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\RazorDeclaration\Pages\Worke\QueuePageWithoutLogin.razor.g.cs
+E:\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Pages\Worke\QueuePageWithoutLogin.razor.g.cs
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\appsettings.Development.json
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\appsettings.json
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Project_Qeue.StaticWebAssets.xml
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Project_Qeue.exe
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Project_Qeue.deps.json
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Project_Qeue.runtimeconfig.json
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Project_Qeue.runtimeconfig.dev.json
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Project_Qeue.dll
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\ref\Project_Qeue.dll
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Project_Qeue.pdb
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Project_Qeue.Views.dll
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Project_Qeue.Views.pdb
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Humanizer.dll
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.csproj.AssemblyReference.cache
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.GeneratedMSBuildEditorConfig.editorconfig
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.AssemblyInfoInputs.cache
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.AssemblyInfo.cs
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.csproj.CoreCompileInputs.cache
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.MvcApplicationPartsAssemblyInfo.cs
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.MvcApplicationPartsAssemblyInfo.cache
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.RazorComponent.input.cache
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\RazorDeclaration\Pages\Worke\ActivityTimeComponent.razor.g.cs
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\RazorDeclaration\Pages\Worke\ContinueRegistrationTypesOfServicesComponent.razor.g.cs
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\RazorDeclaration\Pages\Worke\ForgotPasswordComponent.razor.g.cs
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\RazorDeclaration\Pages\Worke\LoginComponent.razor.g.cs
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\RazorDeclaration\Pages\Worke\LoginWithoutLoggingIn.razor.g.cs
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\RazorDeclaration\Pages\Worke\MakingAnAppointmentComponent.razor.g.cs
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\RazorDeclaration\Pages\Worke\QueuePageWithoutLogin.razor.g.cs
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\RazorDeclaration\Pages\Worke\RegistrationPageComponent.razor.g.cs
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\RazorDeclaration\Pages\Worke\ServiceDataComponent.razor.g.cs
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\RazorDeclaration\Shared\LoginDisplay.razor.g.cs
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.RazorComponent.output.cache
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\RazorDeclaration\Project_Qeue.dll
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.TagHelpers.input.cache
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.TagHelpers.output.cache
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.RazorCoreGenerate.cache
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Pages\Worke\ActivityTimeComponent.razor.g.cs
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Pages\Worke\ContinueRegistrationTypesOfServicesComponent.razor.g.cs
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Pages\Worke\ForgotPasswordComponent.razor.g.cs
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Pages\Worke\LoginComponent.razor.g.cs
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Pages\Worke\LoginWithoutLoggingIn.razor.g.cs
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Pages\Worke\MakingAnAppointmentComponent.razor.g.cs
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Pages\Worke\QueuePageWithoutLogin.razor.g.cs
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Pages\Worke\RegistrationPageComponent.razor.g.cs
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Pages\Worke\ServiceDataComponent.razor.g.cs
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Shared\LoginDisplay.razor.g.cs
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LogOut.cshtml.g.cs
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Shared\_LoginPartial.cshtml.g.cs
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.RazorAssemblyInfo.cache
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.RazorAssemblyInfo.cs
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\scopedcss\bundle\Project_Qeue.styles.css
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\scopedcss\projectbundle\Project_Qeue.bundle.scp.css
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\staticwebassets\Project_Qeue.StaticWebAssets.Manifest.cache
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\staticwebassets\Project_Qeue.StaticWebAssets.xml
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.RazorTargetAssemblyInfo.cache
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.RazorTargetAssemblyInfo.cs
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.Views.pdb
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.csproj.CopyComplete
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.dll
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\ref\Project_Qeue.dll
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.pdb
+C:\מיכל פרטי\Michal zaig\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.genruntimeconfig.cache
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\appsettings.Development.json
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\appsettings.json
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Project_Qeue.StaticWebAssets.xml
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Project_Qeue.exe
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Project_Qeue.deps.json
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Project_Qeue.runtimeconfig.json
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Project_Qeue.runtimeconfig.dev.json
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Project_Qeue.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\ref\Project_Qeue.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Project_Qeue.pdb
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Project_Qeue.Views.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Project_Qeue.Views.pdb
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Humanizer.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.csproj.AssemblyReference.cache
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.GeneratedMSBuildEditorConfig.editorconfig
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.AssemblyInfoInputs.cache
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.AssemblyInfo.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.csproj.CoreCompileInputs.cache
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.MvcApplicationPartsAssemblyInfo.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.MvcApplicationPartsAssemblyInfo.cache
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.RazorComponent.input.cache
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\RazorDeclaration\Shared\LoginDisplay.razor.g.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.RazorComponent.output.cache
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\RazorDeclaration\Project_Qeue.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.TagHelpers.input.cache
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.TagHelpers.output.cache
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.RazorCoreGenerate.cache
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Shared\LoginDisplay.razor.g.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LogOut.cshtml.g.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Shared\_LoginPartial.cshtml.g.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.RazorAssemblyInfo.cache
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.RazorAssemblyInfo.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\scopedcss\bundle\Project_Qeue.styles.css
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\scopedcss\projectbundle\Project_Qeue.bundle.scp.css
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\staticwebassets\Project_Qeue.StaticWebAssets.Manifest.cache
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\staticwebassets\Project_Qeue.StaticWebAssets.xml
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.RazorTargetAssemblyInfo.cache
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.RazorTargetAssemblyInfo.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.Views.pdb
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.csproj.CopyComplete
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\ref\Project_Qeue.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.pdb
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Project_Qeue.genruntimeconfig.cache
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\DataAcess.dll
+C:\מיכל פרטי\פרוייקט סוף שנה\Project_Michal_Hodaya\Michal_Hodaya\Project_Qeue\Project_Qeue\bin\Debug\net5.0\DataAcess.pdb

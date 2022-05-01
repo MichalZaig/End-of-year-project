@@ -1,0 +1,389 @@
+﻿++Solution 'Project_Qeue' ‎(5 of 5 projects)
+i:{00000000-0000-0000-0000-000000000000}:Project_Qeue.sln
+++DataAcess
+i:{00000000-0000-0000-0000-000000000000}:DataAcess
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\dataacess\dataacess.csproj
+++Dependencies
+i:{0a102582-6a0e-4f3c-a8b4-b83d092bc62e}:>826
+i:{128df24c-1c5a-4b9e-9754-c99511f81ade}:>825
+i:{b7540650-e19a-49a4-bcc4-ef9a46a771de}:>827
+i:{ed82c77b-e151-44e4-9ff9-b12232cb0eac}:>828
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:>1268
+++Data
+i:{0a102582-6a0e-4f3c-a8b4-b83d092bc62e}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\dataacess\data\
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\data\
+++Migrations
+i:{0a102582-6a0e-4f3c-a8b4-b83d092bc62e}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\dataacess\migrations\
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\data\migrations\
+++NewFolder
+i:{0a102582-6a0e-4f3c-a8b4-b83d092bc62e}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\dataacess\newfolder\
+i:{b7540650-e19a-49a4-bcc4-ef9a46a771de}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\business\repostiory\newfolder\
+++NewFolder1
+i:{0a102582-6a0e-4f3c-a8b4-b83d092bc62e}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\dataacess\newfolder1\
+++Analyzers
+i:{0a102582-6a0e-4f3c-a8b4-b83d092bc62e}:analyzers
+i:{128df24c-1c5a-4b9e-9754-c99511f81ade}:analyzers
+i:{b7540650-e19a-49a4-bcc4-ef9a46a771de}:analyzers
+i:{ed82c77b-e151-44e4-9ff9-b12232cb0eac}:analyzers
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:analyzers
+++Frameworks
+i:{0a102582-6a0e-4f3c-a8b4-b83d092bc62e}:frameworks
+i:{128df24c-1c5a-4b9e-9754-c99511f81ade}:frameworks
+i:{b7540650-e19a-49a4-bcc4-ef9a46a771de}:frameworks
+i:{ed82c77b-e151-44e4-9ff9-b12232cb0eac}:frameworks
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:frameworks
+++Packages
+i:{0a102582-6a0e-4f3c-a8b4-b83d092bc62e}:packages
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:packages
+++ApplicationDbContext.cs
+i:{0a102582-6a0e-4f3c-a8b4-b83d092bc62e}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\dataacess\data\applicationdbcontext.cs
+++RegistrationToTheSystem.cs
+i:{0a102582-6a0e-4f3c-a8b4-b83d092bc62e}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\dataacess\data\registrationtothesystem.cs
+++20220315092043_CreateDatabase.cs
+i:{0a102582-6a0e-4f3c-a8b4-b83d092bc62e}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\dataacess\migrations\20220315092043_createdatabase.cs
+++20220315111659_AddBusinessDb.cs
+i:{0a102582-6a0e-4f3c-a8b4-b83d092bc62e}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\dataacess\migrations\20220315111659_addbusinessdb.cs
+++20220320165001_AddIdentityTables.cs
+i:{0a102582-6a0e-4f3c-a8b4-b83d092bc62e}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\dataacess\migrations\20220320165001_addidentitytables.cs
+++ApplicationDbContextModelSnapshot.cs
+i:{0a102582-6a0e-4f3c-a8b4-b83d092bc62e}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\dataacess\migrations\applicationdbcontextmodelsnapshot.cs
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\data\migrations\applicationdbcontextmodelsnapshot.cs
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{0a102582-6a0e-4f3c-a8b4-b83d092bc62e}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{128df24c-1c5a-4b9e-9754-c99511f81ade}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{b7540650-e19a-49a4-bcc4-ef9a46a771de}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{ed82c77b-e151-44e4-9ff9-b12232cb0eac}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{0a102582-6a0e-4f3c-a8b4-b83d092bc62e}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{128df24c-1c5a-4b9e-9754-c99511f81ade}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{b7540650-e19a-49a4-bcc4-ef9a46a771de}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{ed82c77b-e151-44e4-9ff9-b12232cb0eac}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{0a102582-6a0e-4f3c-a8b4-b83d092bc62e}:c:\users\michal zaig user\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.NETCore.App
+i:{0a102582-6a0e-4f3c-a8b4-b83d092bc62e}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\dataacess\microsoft.netcore.app
+i:{128df24c-1c5a-4b9e-9754-c99511f81ade}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\common\microsoft.netcore.app
+i:{b7540650-e19a-49a4-bcc4-ef9a46a771de}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\business\microsoft.netcore.app
+i:{ed82c77b-e151-44e4-9ff9-b12232cb0eac}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\models\microsoft.netcore.app
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\microsoft.netcore.app
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (5.0.2)
+i:{0a102582-6a0e-4f3c-a8b4-b83d092bc62e}:>1312
+++Microsoft.AspNetCore.Identity.UI (5.0.2)
+i:{0a102582-6a0e-4f3c-a8b4-b83d092bc62e}:>1316
+++Microsoft.EntityFrameworkCore (5.0.2)
+i:{0a102582-6a0e-4f3c-a8b4-b83d092bc62e}:>1308
+++Microsoft.EntityFrameworkCore.Abstractions (5.0.2)
+i:{0a102582-6a0e-4f3c-a8b4-b83d092bc62e}:>1314
+++Microsoft.EntityFrameworkCore.Design (5.0.2)
+i:{0a102582-6a0e-4f3c-a8b4-b83d092bc62e}:>1311
+++Microsoft.EntityFrameworkCore.Relational (5.0.2)
+i:{0a102582-6a0e-4f3c-a8b4-b83d092bc62e}:>1313
+++Microsoft.EntityFrameworkCore.SqlServer (5.0.2)
+i:{0a102582-6a0e-4f3c-a8b4-b83d092bc62e}:>1310
+++Microsoft.EntityFrameworkCore.Tools (5.0.2)
+i:{0a102582-6a0e-4f3c-a8b4-b83d092bc62e}:>1315
+++20220315092043_CreateDatabase.Designer.cs
+i:{0a102582-6a0e-4f3c-a8b4-b83d092bc62e}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\dataacess\migrations\20220315092043_createdatabase.designer.cs
+++20220315111659_AddBusinessDb.Designer.cs
+i:{0a102582-6a0e-4f3c-a8b4-b83d092bc62e}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\dataacess\migrations\20220315111659_addbusinessdb.designer.cs
+++20220320165001_AddIdentityTables.Designer.cs
+i:{0a102582-6a0e-4f3c-a8b4-b83d092bc62e}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\dataacess\migrations\20220320165001_addidentitytables.designer.cs
+++Common
+i:{00000000-0000-0000-0000-000000000000}:Common
+++Business
+i:{00000000-0000-0000-0000-000000000000}:Business
+++Repostiory
+i:{b7540650-e19a-49a4-bcc4-ef9a46a771de}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\business\repostiory\
+++Models
+i:{00000000-0000-0000-0000-000000000000}:Models
+++ListDTO.cs
+i:{ed82c77b-e151-44e4-9ff9-b12232cb0eac}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\models\listdto.cs
+++Project_Qeue
+i:{00000000-0000-0000-0000-000000000000}:Project_Qeue
+++Connected Services 
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:>1269
+++Properties
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\properties\
+++wwwroot
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\wwwroot\
+++Areas
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\
+++Pages
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\pages\
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\
+++Shared
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\pages\shared\
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\shared\
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\shared\
+++Worke
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\pages\worke\
+++_Host.cshtml
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\pages\_host.cshtml
+++_ViewImports.cshtml
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\pages\_viewimports.cshtml
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\_viewimports.cshtml
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\_viewimports.cshtml
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\manage\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\pages\_viewstart.cshtml
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\_viewstart.cshtml
+++Counter.razor
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\pages\counter.razor
+++Error.cshtml
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\pages\error.cshtml
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\error.cshtml
+++Error.cshtml.cs
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\pages\error.cshtml.cs
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\error.cshtml.cs
+++FetchData.razor
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\pages\fetchdata.razor
+++Index.razor
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\pages\index.razor
+++LoginDisplay.razor
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\shared\logindisplay.razor
+++MainLayout.razor
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\shared\mainlayout.razor
+++NavMenu.razor
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\shared\navmenu.razor
+++SurveyPrompt.razor
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\shared\surveyprompt.razor
+++_Imports.razor
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\_imports.razor
+++App.razor
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\app.razor
+++appsettings.json
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\appsettings.json
+++Program.cs
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\program.cs
+++ScaffoldingReadMe.txt
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\scaffoldingreadme.txt
+++Startup.cs
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\startup.cs
+++SQL Server Express LocalDB (Local) (ConnectionStrings:DefaultConnection)
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:>1319
+++Projects
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:projects
+++launchSettings.json
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\properties\launchsettings.json
+++serviceDependencies.json
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\properties\servicedependencies.json
+++css
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\wwwroot\css\
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\wwwroot\css\open-iconic\font\css\
+++favicon.ico
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\wwwroot\favicon.ico
+++Identity
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\
+++WeatherForecast.cs
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\data\weatherforecast.cs
+++WeatherForecastService.cs
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\data\weatherforecastservice.cs
+++_Layout.cshtml
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\pages\shared\_layout.cshtml
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\manage\_layout.cshtml
+++_LoginPartial.cshtml
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\pages\shared\_loginpartial.cshtml
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\shared\_loginpartial.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\pages\shared\_validationscriptspartial.cshtml
+++MainLayout.razor.css
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\shared\mainlayout.razor.css
+++NavMenu.razor.css
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\shared\navmenu.razor.css
+++appsettings.Development.json
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\appsettings.development.json
+++C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk.Web\analyzers\cs\Microsoft.AspNetCore.Analyzers.dll
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk.Web\analyzers\cs\Microsoft.AspNetCore.Components.Analyzers.dll
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk.Web\analyzers\cs\Microsoft.AspNetCore.Mvc.Analyzers.dll
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk\targets\..\analyzers\Microsoft.CodeAnalysis.CSharp.NetAnalyzers.dll
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk\targets\..\analyzers\Microsoft.CodeAnalysis.NetAnalyzers.dll
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.AspNetCore.App
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\microsoft.aspnetcore.app
+++Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore (5.0.10)
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:>1303
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (5.0.12)
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:>1304
+++Microsoft.AspNetCore.Identity.UI (5.0.12)
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:>1309
+++Microsoft.EntityFrameworkCore.SqlServer (5.0.12)
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:>1302
+++Microsoft.EntityFrameworkCore.Tools (5.0.12)
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:>1306
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (5.0.2)
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:>1307
+++serviceDependencies.local.json
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\properties\servicedependencies.local.json
+++bootstrap
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\wwwroot\css\bootstrap\
+++open-iconic
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\wwwroot\css\open-iconic\
+++site.css
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\wwwroot\css\site.css
+++IdentityHostingStartup.cs
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\identityhostingstartup.cs
+++RevalidatingIdentityAuthenticationStateProvider.cs
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\revalidatingidentityauthenticationstateprovider.cs
+++00000000000000_CreateIdentitySchema.cs
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\data\migrations\00000000000000_createidentityschema.cs
+++bootstrap.min.css
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\wwwroot\css\bootstrap\bootstrap.min.css
+++font
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\wwwroot\css\open-iconic\font\
+++FONT-LICENSE
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\wwwroot\css\open-iconic\font-license
+++ICON-LICENSE
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\wwwroot\css\open-iconic\icon-license
+++README.md
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\wwwroot\css\open-iconic\readme.md
+++Account
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\
+++00000000000000_CreateIdentitySchema.Designer.cs
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\data\migrations\00000000000000_createidentityschema.designer.cs
+++bootstrap.min.css.map
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\wwwroot\css\bootstrap\bootstrap.min.css.map
+++fonts
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\wwwroot\css\open-iconic\font\fonts\
+++Manage
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\manage\
+++_StatusMessage.cshtml
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\_statusmessage.cshtml
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\manage\_statusmessage.cshtml
+++AccessDenied.cshtml
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\accessdenied.cshtml
+++ConfirmEmail.cshtml
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\confirmemail.cshtml
+++ConfirmEmailChange.cshtml
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\confirmemailchange.cshtml
+++ExternalLogin.cshtml
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\externallogin.cshtml
+++ForgotPassword.cshtml
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\forgotpassword.cshtml
+++ForgotPasswordConfirmation.cshtml
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\forgotpasswordconfirmation.cshtml
+++Lockout.cshtml
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\lockout.cshtml
+++Login.cshtml
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\login.cshtml
+++LoginWith2fa.cshtml
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\loginwith2fa.cshtml
+++LoginWithRecoveryCode.cshtml
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\loginwithrecoverycode.cshtml
+++LogOut.cshtml
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\logout.cshtml
+++Register.cshtml
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\register.cshtml
+++RegisterConfirmation.cshtml
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\registerconfirmation.cshtml
+++ResendEmailConfirmation.cshtml
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\resendemailconfirmation.cshtml
+++ResetPassword.cshtml
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\resetpassword.cshtml
+++ResetPasswordConfirmation.cshtml
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\resetpasswordconfirmation.cshtml
+++open-iconic-bootstrap.min.css
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\wwwroot\css\open-iconic\font\css\open-iconic-bootstrap.min.css
+++open-iconic.eot
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\wwwroot\css\open-iconic\font\fonts\open-iconic.eot
+++open-iconic.otf
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\wwwroot\css\open-iconic\font\fonts\open-iconic.otf
+++open-iconic.svg
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\wwwroot\css\open-iconic\font\fonts\open-iconic.svg
+++open-iconic.ttf
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\wwwroot\css\open-iconic\font\fonts\open-iconic.ttf
+++open-iconic.woff
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\wwwroot\css\open-iconic\font\fonts\open-iconic.woff
+++_ManageNav.cshtml
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\manage\_managenav.cshtml
+++ChangePassword.cshtml
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\manage\changepassword.cshtml
+++DeletePersonalData.cshtml
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\manage\deletepersonaldata.cshtml
+++Disable2fa.cshtml
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\manage\disable2fa.cshtml
+++DownloadPersonalData.cshtml
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\manage\downloadpersonaldata.cshtml
+++Email.cshtml
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\manage\email.cshtml
+++EnableAuthenticator.cshtml
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\manage\enableauthenticator.cshtml
+++ExternalLogins.cshtml
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\manage\externallogins.cshtml
+++GenerateRecoveryCodes.cshtml
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\manage\generaterecoverycodes.cshtml
+++Index.cshtml
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\manage\index.cshtml
+++ManageNavPages.cs
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\manage\managenavpages.cs
+++PersonalData.cshtml
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\manage\personaldata.cshtml
+++ResetAuthenticator.cshtml
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\manage\resetauthenticator.cshtml
+++SetPassword.cshtml
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\manage\setpassword.cshtml
+++ShowRecoveryCodes.cshtml
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\manage\showrecoverycodes.cshtml
+++TwoFactorAuthentication.cshtml
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\manage\twofactorauthentication.cshtml
+++AccessDenied.cshtml.cs
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\accessdenied.cshtml.cs
+++ConfirmEmail.cshtml.cs
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\confirmemail.cshtml.cs
+++ConfirmEmailChange.cshtml.cs
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\confirmemailchange.cshtml.cs
+++ExternalLogin.cshtml.cs
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\externallogin.cshtml.cs
+++ForgotPassword.cshtml.cs
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\forgotpassword.cshtml.cs
+++ForgotPasswordConfirmation.cshtml.cs
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\forgotpasswordconfirmation.cshtml.cs
+++Lockout.cshtml.cs
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\lockout.cshtml.cs
+++Login.cshtml.cs
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\login.cshtml.cs
+++LoginWith2fa.cshtml.cs
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\loginwith2fa.cshtml.cs
+++LoginWithRecoveryCode.cshtml.cs
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\loginwithrecoverycode.cshtml.cs
+++Register.cshtml.cs
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\register.cshtml.cs
+++RegisterConfirmation.cshtml.cs
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\registerconfirmation.cshtml.cs
+++ResendEmailConfirmation.cshtml.cs
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\resendemailconfirmation.cshtml.cs
+++ResetPassword.cshtml.cs
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\resetpassword.cshtml.cs
+++ResetPasswordConfirmation.cshtml.cs
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\resetpasswordconfirmation.cshtml.cs
+++ChangePassword.cshtml.cs
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\manage\changepassword.cshtml.cs
+++DeletePersonalData.cshtml.cs
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\manage\deletepersonaldata.cshtml.cs
+++Disable2fa.cshtml.cs
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\manage\disable2fa.cshtml.cs
+++DownloadPersonalData.cshtml.cs
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\manage\downloadpersonaldata.cshtml.cs
+++Email.cshtml.cs
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\manage\email.cshtml.cs
+++EnableAuthenticator.cshtml.cs
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\manage\enableauthenticator.cshtml.cs
+++ExternalLogins.cshtml.cs
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\manage\externallogins.cshtml.cs
+++GenerateRecoveryCodes.cshtml.cs
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\manage\generaterecoverycodes.cshtml.cs
+++Index.cshtml.cs
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\manage\index.cshtml.cs
+++PersonalData.cshtml.cs
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\manage\personaldata.cshtml.cs
+++ResetAuthenticator.cshtml.cs
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\manage\resetauthenticator.cshtml.cs
+++SetPassword.cshtml.cs
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\manage\setpassword.cshtml.cs
+++ShowRecoveryCodes.cshtml.cs
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\manage\showrecoverycodes.cshtml.cs
+++TwoFactorAuthentication.cshtml.cs
+i:{b1b0308a-1e03-481d-9af6-e1a814a45656}:c:\מיכל פרטי\פרוייקט סוף שנה\project_michal_hodaya\michal_hodaya\project_qeue\project_qeue\areas\identity\pages\account\manage\twofactorauthentication.cshtml.cs
